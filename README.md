@@ -9,13 +9,9 @@
 - 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - heating-consumption-visualizer
 - 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - NINASonyCameraPlugin
 
-### Legacy Work
-
-- 🐍 **[python-programming-exercises](https://github.com/shurkanTwo/python-programming-exercises)** - python-programming-exercises
-
 ## AI Coding
 
-I currently mostly use ChatGPT Codex for AI coding, with two parallel CLIs open.
+I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two agents in parallel on the same project.
 
 ## Connect
 
