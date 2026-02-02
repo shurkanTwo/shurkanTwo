@@ -11,7 +11,7 @@
 
 ## AI Coding
 
-I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two agents in parallel on the same project.
+I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two (or more) agents in parallel on the same project.
 
 ## Connect
 
