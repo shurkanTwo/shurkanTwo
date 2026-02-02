@@ -17,7 +17,7 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lepski-4402b3142/)
 - 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
-- 🌐 [Website](https://www.lepski.info/)
+- 🌐 [Website](https://www.lepski.info/) (photography only, not related to software dev)
 
 ---
 
