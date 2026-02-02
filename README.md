@@ -13,10 +13,6 @@
 
 - 🐍 **[python-programming-exercises](https://github.com/shurkanTwo/python-programming-exercises)** - python-programming-exercises
 
-## GitHub Activity
-
-![GitHub Contribution Graph](https://ghchart.rshah.org/shurkanTwo)
-
 ## AI Coding
 
 I currently mostly use ChatGPT Codex for AI coding, with two parallel CLIs open.
