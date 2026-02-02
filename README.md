@@ -19,8 +19,6 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 - 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
 - 🌐 [Website](https://www.lepski.info/) (photography only, not related to software dev)
 
----
-
-### Philosophy
+## Philosophy
 
 > I like to be creative and think outside the box to find new and unexpected solutions.
