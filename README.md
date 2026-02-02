@@ -23,4 +23,4 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 
 ### Philosophy
 
-Be creative and think outside the box to find new and unexpected solutions.
+> I like to be creative and think outside the box to find new and unexpected solutions.
