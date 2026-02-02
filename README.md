@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Lucas 👋
 
-<!--
-**shurkanTwo/shurkanTwo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📍 **Cologne** | Software Engineer | Climate Tech | Product-minded
 
-Here are some ideas to get you started:
+## Current Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧹 **[chromium-tab-sorter-cleaner](https://github.com/shurkanTwo/chromium-tab-sorter-cleaner)** - chromium-tab-sorter-cleaner
+- 🖼️ **[automatic-image-culling](https://github.com/shurkanTwo/automatic-image-culling)** - automatic-image-culling
+- 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - heating-consumption-visualizer
+- 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - NINASonyCameraPlugin
+
+### Legacy Work
+
+- 🐍 **[python-programming-exercises](https://github.com/shurkanTwo/python-programming-exercises)** - python-programming-exercises
+
+## GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/shurkanTwo)
+
+## AI Coding
+
+I currently mostly use ChatGPT Codex for AI coding, with two parallel CLIs open.
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lepski-4402b3142/)
+- 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
+- 🌐 [Website](https://www.lepski.info/)
+
+---
+
+### Philosophy
+
+Be creative and think outside the box to find new and unexpected solutions.
