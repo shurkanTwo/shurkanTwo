@@ -4,10 +4,11 @@
 
 ## Current Projects
 
-- 🧹 **[chromium-tab-sorter-cleaner](https://github.com/shurkanTwo/chromium-tab-sorter-cleaner)** - chromium-tab-sorter-cleaner
-- 🖼️ **[automatic-image-culling](https://github.com/shurkanTwo/automatic-image-culling)** - automatic-image-culling
-- 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - heating-consumption-visualizer
-- 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - NINASonyCameraPlugin
+- 🖼️ **[automatic-image-culling](https://github.com/shurkanTwo/automatic-image-culling)** - Tooling to automatically cull photo sets and keep the best shots.
+- 🎾 **[TennisOnlineBuchen](https://tennisonlinebuchen.de/)** - Web-based tennis booking platform for clubs, implementing new features with users and product in mind, acting as product owner, modernization and refactoring, and full-stack ownership across frontend and backend. Includes website and hosting. Built with JavaScript and PHP.
+- 🧹 **[chromium-tab-sorter-cleaner](https://github.com/shurkanTwo/chromium-tab-sorter-cleaner)** - Chromium extension to sort and clean up large tab sessions.
+- 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - Visualization of heating usage data.
+- 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - N.I.N.A plugin enabling Sony camera control for astrophotography (bugfixes and updates).
 
 ## AI Coding
 
