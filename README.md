@@ -26,7 +26,7 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
   <em>My Java, Kotlin, and TypeScript work is not hosted on GitHub, so they don't appear in these statistics.</em>
 </div>
 <div>
-  <span style="color:#888; font-size:0.85em;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a git fork.</em></span>
+  <small style="color:#888;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a git fork.</em></small>
 </div>
 
 ## Connect
