@@ -14,6 +14,17 @@
 
 I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two (or more) agents in parallel on the same project.
 
+## GitHub Readme Stats
+
+<img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
+<img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
+<div>
+  <em>My Java, Kotlin, and TypeScript work is not hosted on GitHub, so they don't appear in these statistics.</em>
+</div>
+<div>
+  <span style="color:#888; font-size:0.85em;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a git fork.</em></span>
+</div>
+
 ## Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lepski-4402b3142/)
