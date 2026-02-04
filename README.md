@@ -24,7 +24,7 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 - 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
 - 🌐 [Website](https://www.lepski.info/) (photography only, not related to software dev)
 
-## GitHub Readme Stats
+## Statistics
 
 <a href="https://github.com/shurkanTwo">
   <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
