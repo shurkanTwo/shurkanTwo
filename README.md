@@ -10,9 +10,19 @@
 - 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - Visualization of heating usage data.
 - 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - N.I.N.A plugin enabling Sony camera control for astrophotography (bugfixes and updates).
 
+## Philosophy
+
+> I like to be creative and think outside the box to find new and unexpected solutions.
+
 ## AI Coding
 
 I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two (or more) agents in parallel on the same project.
+
+## Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lepski-4402b3142/)
+- 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
+- 🌐 [Website](https://www.lepski.info/) (photography only, not related to software dev)
 
 ## GitHub Readme Stats
 
@@ -26,15 +36,5 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
   <em>My Java, Kotlin, and TypeScript work is not hosted on GitHub, so they don't appear in these statistics.</em>
 </div>
 <div>
-  <small style="color:#888;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a git fork.</em></small>
+  <small style="color:#888;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a fork.</em></small>
 </div>
-
-## Connect
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lucas-lepski-4402b3142/)
-- 🧑‍💻 [GitHub](https://github.com/shurkanTwo)
-- 🌐 [Website](https://www.lepski.info/) (photography only, not related to software dev)
-
-## Philosophy
-
-> I like to be creative and think outside the box to find new and unexpected solutions.
