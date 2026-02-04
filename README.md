@@ -17,12 +17,12 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 ## GitHub Readme Stats
 
 <div style="margin:0; padding:0;">
-<table cellpadding="0" cellspacing="0" border="0" style="border-spacing:0; padding:0; margin:0; border:0;">
+<table role="presentation" cellpadding="0" cellspacing="0" border="0" style="border-collapse:collapse; border-spacing:0; padding:0; margin:0; border:none; outline:none; background:none;">
   <tr>
-    <td style="padding:0 12px 0 0; margin:0;">
+    <td style="padding:0 12px 0 0; margin:0; border:none;">
       <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
     </td>
-    <td style="padding:0; margin:0;">
+    <td style="padding:0; margin:0; border:none;">
       <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
     </td>
   </tr>
