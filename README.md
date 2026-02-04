@@ -16,10 +16,10 @@ I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely 
 
 ## GitHub Readme Stats
 
-<a href="">
+<a href="https://github.com/shurkanTwo">
   <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
-<a href="">
+<a href="https://github.com/shurkanTwo">
   <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
 </a>
 <div>
