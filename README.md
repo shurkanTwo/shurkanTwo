@@ -2,6 +2,8 @@
 
 📍 **Cologne** | Software Engineer | Climate Tech | Product-minded
 
+Working at [ENTENDIX GmbH](https://www.entendix.com/)
+
 ## Current Projects
 
 - 🖼️ **[automatic-image-culling](https://github.com/shurkanTwo/automatic-image-culling)** - Tooling to automatically cull photo sets and keep the best shots.
