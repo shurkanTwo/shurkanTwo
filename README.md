@@ -11,6 +11,7 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 - 🧹 **[chromium-tab-sorter-cleaner](https://github.com/shurkanTwo/chromium-tab-sorter-cleaner)** - Chromium extension to sort and clean up large tab sessions.
 - 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - Visualization of heating usage data.
 - 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - N.I.N.A plugin enabling Sony camera control for astrophotography (bugfixes and updates).
+- 🐍 **[python-programming-exercises](https://github.com/shurkanTwo/python-programming-exercises)** - Collection of small Python exercises and mini-projects exploring algorithms, data processing, and application logic.
 
 ## Philosophy
 
@@ -18,7 +19,11 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 
 ## AI Coding
 
-I mostly use ChatGPT Codex for AI coding. Its context window is huge and rarely exhausted, and the value for money is excellent. It also works well for running two (or more) agents in parallel on the same project.
+- 🤖 Built and productively use agent-assisted development at work (Claude Code): multi-session workflow with an agent protocol (AGENTS.md), backlog/state tracking, and an ADR process — used to build a production service over dozens of sessions.
+- 🧠 Broad model and tool experience: ChatGPT 5.4/5.5/5.6, Claude Opus 4.7/4.8, Claude Fable 5, and Cursor — each via CLI, VS Code extension, and web.
+- 🔧 Tuned and extended agent setups: AGENTS.md/CLAUDE.md tuning, subagents, git worktrees for parallel agent work, MCP servers (incl. Context7, Serena), skills, and token optimization (RTK, caveman mode).
+- 🔍 Integrated Entire.io into several repos for traceability of agent code changes (checkpoints, session transcripts).
+- ✅ Agent-assisted review and quality processes: code reviews, repo reviews, and documentation upkeep.
 
 ## Connect
 
