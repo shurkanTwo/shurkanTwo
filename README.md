@@ -15,7 +15,6 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 - 🧹 **[chromium-tab-sorter-cleaner](https://github.com/shurkanTwo/chromium-tab-sorter-cleaner)** - Chromium extension for sorting tabs, removing duplicates, and grouping by content or domain.
 - 🔥 **[heating-consumption-visualizer](https://github.com/shurkanTwo/heating-consumption-visualizer)** - Heating data exploration with room-level plots and comparison charts.
 - 🌌 **[NINASonyCameraPlugin](https://github.com/shurkanTwo/NINASonyCameraPlugin)** - Bugfixes and updates for Sony camera control in N.I.N.A astrophotography workflows.
-- 🐍 **[python-programming-exercises](https://github.com/shurkanTwo/python-programming-exercises)** - Small exercises and experiments with algorithms, data processing, and application logic.
 
 ## Philosophy
 
