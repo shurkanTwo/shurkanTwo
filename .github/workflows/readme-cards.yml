@@ -1,0 +1,60 @@
+name: Update README cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/readme-cards.yml]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: readme-cards
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Classic PAT (scopes: repo, read:user) so private contributions are counted.
+      - name: Check token
+        env:
+          README_STATS_TOKEN: ${{ secrets.README_STATS_TOKEN }}
+        run: |
+          if [ -z "$README_STATS_TOKEN" ]; then
+            echo "::error::Repository secret README_STATS_TOKEN is not set."
+            exit 1
+          fi
+
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+
+      - name: Generate stats card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&theme=transparent&hide_rank=true
+          path: profile/stats.svg
+          token: ${{ secrets.README_STATS_TOKEN }}
+          core_version: 2.2.1
+          fail_on_error: true
+
+      - name: Generate top languages card
+        uses: stats-organization/github-readme-stats-action@2c498845f71017821efaad14293ebc736156ef21 # v2.1.0
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&card_width=280&theme=transparent
+          path: profile/top-langs.svg
+          token: ${{ secrets.README_STATS_TOKEN }}
+          core_version: 2.2.1
+          fail_on_error: true
+
+      - name: Commit cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/*.svg
+          git commit -m "chore: update README cards" || exit 0
+          git push

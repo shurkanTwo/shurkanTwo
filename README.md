@@ -38,14 +38,14 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 ## Statistics
 
 <a href="https://github.com/shurkanTwo">
-  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
+  <img height=180 align="center" src="./profile/stats.svg" alt="GitHub stats" />
 </a>
 <a href="https://github.com/shurkanTwo">
-  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
+  <img height=180 align="center" src="./profile/top-langs.svg" alt="Most used languages" />
 </a>
 <div>
-  <em>These statistics show only part of my work; my professional Java, Kotlin, and TypeScript projects aren't public here.</em>
+  <em>The counts include private contributions. The language card covers only my own repositories, so my professional Java, Kotlin, and TypeScript work doesn't appear there.</em>
 </div>
 <div>
-  <small style="color:#888;"><em>Stats by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>, the maintained successor of <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>.</em></small>
+  <small style="color:#888;"><em>Updated daily by a GitHub Action using <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>, the maintained successor of <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>.</em></small>
 </div>
