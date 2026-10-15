@@ -38,14 +38,14 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 ## Statistics
 
 <a href="https://github.com/shurkanTwo">
-  <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api?username=shurkanTwo&show_icons=true&theme=transparent&hide_rank=true" />
 </a>
 <a href="https://github.com/shurkanTwo">
-  <img height=180 align="center" src="https://github-readme-stats-omega-three-60.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
+  <img height=180 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=shurkanTwo&layout=compact&langs_count=8&card_width=280&theme=transparent" />
 </a>
 <div>
   <em>These statistics show only part of my work; my professional Java, Kotlin, and TypeScript projects aren't public here.</em>
 </div>
 <div>
-  <small style="color:#888;"><em>GitHub Readme Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>, self-hosted on Vercel from a fork.</em></small>
+  <small style="color:#888;"><em>Stats by <a href="https://github.com/stats-organization/github-stats-extended">GitHub Stats Extended</a>, the maintained successor of <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra/github-readme-stats</a>.</em></small>
 </div>
