@@ -9,6 +9,7 @@ Working at [ENTENDIX GmbH](https://www.entendix.com/)
 - 🖼️ **[automatic-image-culling](https://github.com/shurkanTwo/automatic-image-culling)** - Developing the original image-culling tool into a local desktop app for reviewing photo collections: automatic first-pass suggestions, side-by-side comparison, ratings, collections, and a Lightroom Classic handoff. Built with Rust/Tauri, React/TypeScript, and Python.
 - 🎾 **[TennisOnlineBuchen](https://tennisonlinebuchen.de/)** - Tennis booking platform for clubs, with full-stack and product ownership from user needs to hosting. Modernizing the PHP/JavaScript application through a Laravel, Vue, and Inertia rewrite, including feature parity, data migration, automated testing, and deployment.
 - 📷 **[Lightcraft](https://github.com/storytold/lightcraft)** - Contributing to an open-source photo editor written in Rust.
+- ☸️ **[Freelens](https://github.com/freelensapp/freelens)** - Contributing to an open-source Kubernetes IDE built with Electron and TypeScript.
 
 ### More projects and contributions
 
